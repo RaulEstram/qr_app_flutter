@@ -1,0 +1,12 @@
+{
+  "DBM:ERROR_CONNECTION_LOGIN": "Acceso denegado a la base de datos.",
+  "DBM:ERROR_CONNECTION_HOST": "Se produjo un problema con el host.",
+  "DBM:ERROR_CONNECTION_DB": "Se desconoce la base de datos a la que se quiere conectar.",
+  "DBM:ERROR_CONNECTION": "Se produjo el siguiente error: {error}",
+
+  "DBM:ERROR_QUERY_TABLE": "Se desconoce la tabla del query.",
+  "DBM:ERROR_QUERY_SYNTAX": "Hay un problema con la sintaxis del query.",
+  "DBM:ERROR_QUERY_COLUMN": "Se desconoce la columna del query.",
+  "DBM:ERROR_QUERY": "Se produjo el siguiente error: {error}.",
+  "DBM:SUCCESSFUL_QUERY": "Se ejecutó correctamente el query.",
+}
